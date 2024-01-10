@@ -1,4 +1,5 @@
 Two-Tier-Flask-Application
+image
 ![sp](https://github.com/ankitabhadani/two-tier--app/assets/121809266/108b73e6-053a-4a0c-a93a-9929b00eddca)
 Successfully deployed a two-tier Flask application on Amazon EKS (Elastic Kubernetes Service) to ensure high availability, scalability, and ease of management.
 
